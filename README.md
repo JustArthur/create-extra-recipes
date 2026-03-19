@@ -74,7 +74,6 @@ Possible future additions:
 - More Create automation chains
 - Additional vanilla recipe improvements
 - Better resource loops for factories
-- Automation for items such as Music Discs, Totems, Smithing Templates and More
 
 ## 🧩 Modpacks
 
