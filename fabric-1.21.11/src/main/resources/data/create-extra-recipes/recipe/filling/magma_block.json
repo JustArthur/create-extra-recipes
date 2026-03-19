@@ -1,0 +1,12 @@
+{
+  "type": "create:filling",
+  "ingredient": "minecraft:cobblestone",
+  "fluid_ingredient": {
+    "type": "fluid_stack",
+    "amount": 20250,
+    "fluid": "minecraft:lava"
+  },
+  "result": {
+    "id": "minecraft:magma_block"
+  }
+}

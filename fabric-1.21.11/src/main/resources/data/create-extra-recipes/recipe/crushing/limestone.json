@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredient": "create:limestone",
+  "processing_time": 250,
+  "results": [
+    {
+      "chance": 0.15,
+      "id": "create:limestone"
+    },
+    {
+      "chance": 0.50,
+      "id": "minecraft:lapis_lazuli"
+    }
+  ]
+}

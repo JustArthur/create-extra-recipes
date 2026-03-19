@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "create:brass_ingot",
+    "#c:stripped_logs"
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:brass_casing"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredient": "#create-extra-recipes:armors/diamond_armor",
+  "processing_time": 450,
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:diamond"
+    },
+    {
+      "chance": 0.25,
+      "id": "minecraft:diamond"
+    }
+  ]
+}

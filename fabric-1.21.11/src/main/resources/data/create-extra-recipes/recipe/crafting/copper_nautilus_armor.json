@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "minecraft:copper_ingot",
+    "N": "minecraft:nautilus_shell",
+    "S": "minecraft:saddle"
+  },
+  "pattern": [
+    " NI",
+    "ISI",
+    "III"
+  ],
+  "result": {
+    "id": "minecraft:copper_nautilus_armor",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "create:filling",
+  "ingredient": "minecraft:stick",
+  "fluid_ingredient": {
+    "type": "fluid_stack",
+    "amount": 81000,
+    "fluid": "minecraft:lava"
+  },
+  "result": {
+    "id": "minecraft:blaze_rod"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    "minecraft:gravel",
+    "minecraft:gravel",
+    "minecraft:bone_meal",
+    "minecraft:bone_meal"
+  ],
+  "results": [
+    {
+      "id": "minecraft:calcite"
+    }
+  ]
+}

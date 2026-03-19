@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    "minecraft:dragon_breath",
+    "#c:eggs",
+    "minecraft:obsidian",
+    "minecraft:obsidian",
+    "minecraft:obsidian",
+    "minecraft:obsidian"
+  ],
+  "results": [
+    {
+      "id": "minecraft:dragon_egg"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+		"minecraft:quartz",
+		"minecraft:gold_nugget",
+		"minecraft:gold_nugget",
+		"minecraft:gold_nugget",
+		"create:cinder_flour"
+	],
+	"results": [
+		{
+			"count": 2,
+			"id": "minecraft:glowstone_dust"
+		}
+	]
+}

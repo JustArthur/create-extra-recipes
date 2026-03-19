@@ -1,0 +1,14 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+		"minecraft:charcoal",
+		"minecraft:flint",
+		"minecraft:bone_meal"
+	],
+	"results": [
+		{
+			"count": 2,
+			"id": "minecraft:gunpowder"
+		}
+	]
+}

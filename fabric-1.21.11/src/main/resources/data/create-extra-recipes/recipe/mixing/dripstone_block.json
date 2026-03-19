@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": ["minecraft:stone"],
+  "fluid_ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 40500,
+      "fluid": "minecraft:water"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:dripstone_block"
+    }
+  ]
+}

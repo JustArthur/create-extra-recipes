@@ -1,0 +1,25 @@
+{
+  "type": "create:compacting",
+  "heat_requirement": "superheated",
+  "ingredients": [
+    "minecraft:soul_sand",
+    "minecraft:soul_sand",
+    "minecraft:soul_sand",
+    "minecraft:soul_sand",
+    "minecraft:wither_skeleton_skull",
+    "minecraft:wither_skeleton_skull",
+    "minecraft:wither_skeleton_skull"
+  ],
+  "fluid_ingredients": [
+    {
+      "type": "fluid_stack",
+      "amount": 8100,
+      "fluid": "minecraft:lava"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:nether_star"
+    }
+  ]
+}

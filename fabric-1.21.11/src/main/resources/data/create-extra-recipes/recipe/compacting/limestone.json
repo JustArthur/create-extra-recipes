@@ -1,0 +1,21 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		"minecraft:cobblestone",
+		"minecraft:cobblestone",
+		"minecraft:calcite",
+		"minecraft:calcite"
+	],
+	"fluid_ingredients": [
+		{
+			"type": "fluid_stack",
+			"amount": 8100,
+			"fluid": "minecraft:water"
+		}
+	],
+	"results": [
+		{
+			"id": "create:limestone"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredient": "minecraft:sand",
+  "processing_time": 250,
+  "results": [
+    {
+      "chance": 0.15,
+      "id": "minecraft:sand"
+    },
+    {
+      "chance": 0.01,
+      "id": "minecraft:nautilus_shell"
+    }
+  ]
+}

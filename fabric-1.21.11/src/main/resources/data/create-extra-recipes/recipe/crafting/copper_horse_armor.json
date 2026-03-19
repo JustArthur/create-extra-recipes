@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": "minecraft:copper_ingot",
+    "L": "minecraft:saddle"
+  },
+  "pattern": [
+    "  I",
+    "ILI",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:copper_horse_armor"
+  }
+}

@@ -1,0 +1,18 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+		{"item": "create:cinder_flour"},
+		{"item": "minecraft:flint"},
+		{"item": "minecraft:flint"},
+		{
+			"type": "neoforge:single",
+			"amount": 500,
+			"fluid": "minecraft:lava"
+		}
+	],
+	"results": [
+		{
+			"id": "minecraft:redstone"
+		}
+	]
+}

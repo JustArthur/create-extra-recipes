@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "create-extra-recipes",
+  "version": "${version}",
+  "name": "Create: Extra Recipes",
+  "description": "Introduces new processing recipes designed to integrate smoothly with Create automation.",
+  "authors": ["su apt install Kuma"],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/create-extra-recipes/icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,20 @@
+{
+	"type": "create:mixing",
+	"ingredients": [
+		"create:cinder_flour",
+		"minecraft:flint",
+		"minecraft:flint"
+	],
+	"fluid_ingredients": [
+		{
+			"type": "fluid_stack",
+			"amount": 40500,
+			"fluid": "minecraft:lava"
+		}
+	],
+	"results": [
+		{
+			"id": "minecraft:redstone"
+		}
+	]
+}

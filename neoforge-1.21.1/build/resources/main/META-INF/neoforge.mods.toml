@@ -1,0 +1,46 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+
+[[mods]]
+    modId = "create_extra_recipes"
+    version = "1.1"
+    displayName = "Create: Extra Recipes"
+    #updateJSONURL="https://change.me.example.invalid/updates.json"
+    displayURL="https://modrinth.com/mod/create-extra-recipes-kuma"
+    logoFile="icon.png"
+    #credits=""
+    authors = "su apt install Kuma"
+    description = '''Introduces new processing recipes designed to integrate smoothly with Create automation.'''
+
+#[[mixins]]
+#config="create_extra_recipes.mixins.json"
+
+#[[accessTransformers]]
+#file="META-INF/accesstransformer.cfg"
+
+# A dependency
+[[dependencies."create_extra_recipes"]]
+    modId = "neoforge"
+    type = "required"
+    versionRange = "[21,)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies."create_extra_recipes"]]
+    modId = "minecraft"
+    type = "required"
+    versionRange = "[1.21.1,1.22)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.create_extra_recipes]]
+    modId="create"
+    type="required"
+    versionRange="[6.0.9,6.1.0)"
+    ordering="NONE"
+    side="BOTH"
+
+#[features."create_extra_recipes"]
+#openGLVersion="[3.2,)"

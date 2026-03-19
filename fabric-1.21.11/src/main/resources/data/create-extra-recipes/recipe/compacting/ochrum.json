@@ -1,0 +1,24 @@
+{
+	"type": "create:compacting",
+	"ingredients": [
+		"minecraft:gold_nugget",
+		"minecraft:gold_nugget",
+		"minecraft:gold_nugget",
+		"minecraft:gold_nugget",
+		"minecraft:gravel",
+		"minecraft:gravel"
+	],
+	"fluid_ingredients": [
+		{
+			"type": "fluid_stack",
+			"amount": 8100,
+			"fluid": "minecraft:lava"
+		}
+	],
+	"results": [
+		{
+			"count": 2,
+			"id": "create:ochrum"
+		}
+	]
+}

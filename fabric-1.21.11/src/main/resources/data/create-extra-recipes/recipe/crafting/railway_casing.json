@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "create:sturdy_sheet",
+    "create:brass_casing"
+  ],
+  "result": {
+    "count": 1,
+    "id": "create:railway_casing"
+  }
+}
