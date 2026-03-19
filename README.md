@@ -67,6 +67,18 @@ Examples include:
 Copper blocks can now **oxidize using water**, allowing easier automation of the copper aging stages.
 Perfect for builders who use **oxidized copper palettes**.
 
+## 🔧Compatibility
+
+This mod supports both **NeoForge** and **Fabric**.
+
+**NeoForge**:
+- Easy Smithing Templates
+- Supplementaries
+- More Armor Trims
+
+* **Fabric**: 
+- Works standalone (no compatibility, as the above mods are not available on Fabric)
+
 ## 💡 Future Plans
 
 Possible future additions:
