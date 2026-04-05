@@ -1,0 +1,9 @@
+{
+  "type": "create:pressing",
+  "ingredients": [{"item": "minecraft:amethyst_block"}],
+  "results": [
+    {
+      "id": "minecraft:budding_amethyst"
+    }
+  ]
+}

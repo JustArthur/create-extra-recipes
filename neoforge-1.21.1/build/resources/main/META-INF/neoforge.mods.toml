@@ -3,9 +3,31 @@ loaderVersion = "[4,)"
 license = "All Rights Reserved"
 #issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
 
+# A dependency
+[[dependencies."create_extra_recipes"]]
+    modId = "neoforge"
+    type = "required"
+    versionRange = "[21,)"
+    ordering = "BEFORE"
+    side = "BOTH"
+
+[[dependencies."create_extra_recipes"]]
+    modId = "minecraft"
+    type = "required"
+    versionRange = "[1.21.1,1.22)"
+    ordering = "BEFORE"
+    side = "BOTH"
+
+[[dependencies.create_extra_recipes]]
+    modId="create"
+    type="required"
+    versionRange="[6.0.9,6.1.0)"
+    ordering="AFTER"
+    side="BOTH"
+
 [[mods]]
     modId = "create_extra_recipes"
-    version = "1.1"
+    version = "1.2.0"
     displayName = "Create: Extra Recipes"
     #updateJSONURL="https://change.me.example.invalid/updates.json"
     displayURL="https://modrinth.com/mod/create-extra-recipes-kuma"
@@ -19,28 +41,6 @@ license = "All Rights Reserved"
 
 #[[accessTransformers]]
 #file="META-INF/accesstransformer.cfg"
-
-# A dependency
-[[dependencies."create_extra_recipes"]]
-    modId = "neoforge"
-    type = "required"
-    versionRange = "[21,)"
-    ordering = "NONE"
-    side = "BOTH"
-
-[[dependencies."create_extra_recipes"]]
-    modId = "minecraft"
-    type = "required"
-    versionRange = "[1.21.1,1.22)"
-    ordering = "NONE"
-    side = "BOTH"
-
-[[dependencies.create_extra_recipes]]
-    modId="create"
-    type="required"
-    versionRange="[6.0.9,6.1.0)"
-    ordering="NONE"
-    side="BOTH"
 
 #[features."create_extra_recipes"]
 #openGLVersion="[3.2,)"

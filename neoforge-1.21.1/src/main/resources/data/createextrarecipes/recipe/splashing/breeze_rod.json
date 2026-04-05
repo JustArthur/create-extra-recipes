@@ -1,0 +1,10 @@
+{
+  "type": "create:splashing",
+  "ingredients": [{"item": "minecraft:blaze_rod"}],
+  "results": [
+    {
+      "chance": 0.25,
+      "id": "minecraft:breeze_rod"
+    }
+  ]
+}
